@@ -35,3 +35,4 @@ __IMPORTANTE:__ Luego de completar cada una de las homeworks del día deberán e
 
 > El **Checkpoint** consiste en un ejercicio que integra todo este contenido, va a ser individual y van a tener un día completo para terminarlo. Para continuar con la carrera es necesario aprobar este Checkpoint.
 # M3
+# M3
